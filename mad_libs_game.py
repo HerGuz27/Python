@@ -1,11 +1,11 @@
-noun=input('Enter a noun')
-plural_noun=input('Enter a plural noun')
-verb=input('Enter a verb')
-verb2=input('Enter another verb')
-part_of_body=input('Enter a part of body')
-adjective=input('Enter an adjective')
-plural_noun2=input('Enter another plural noun')
-adjective2=input('Enter another adjective')
+noun=input('Enter a noun: ')
+plural_noun=input('Enter a plural noun: ')
+verb=input('Enter a verb: ')
+verb2=input('Enter another verb: ')
+part_of_body=input('Enter a part of body: ')
+adjective=input('Enter an adjective: ')
+plural_noun2=input('Enter another plural noun: ')
+adjective2=input('Enter another adjective: ')
 
 
 story=("               THE MAGIC COMPUTERS \n"
